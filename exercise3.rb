@@ -3,4 +3,4 @@
 puts "What is your name?"
 username = gets.chomp
 
-puts "Welcome, #{username.to_i}!"
+puts "Welcome, #{username.to_s}!"
